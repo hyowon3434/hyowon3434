@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=250&section=header&text=Jayden's%20Playground&fontSize=70&theme=onedark)
 
 
-## <center> Skills I've Used </center>
-<center>![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F)</center>
+# <center> Skills I've Used </center>
+![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyowon3434&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
