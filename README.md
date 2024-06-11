@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=250&section=header&text=Jayden's%20Playground&fontSize=70&theme=onedark)
 
-Skills I've Used
+# Skills I've Used
 
 ![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F)
 
