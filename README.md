@@ -3,7 +3,7 @@
 
 
 # <center> Skills I've Used </center>
-![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F)
+<p align="center">![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F)</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyowon3434&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
