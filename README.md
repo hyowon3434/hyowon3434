@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyowon3434&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+reading+my+introduction)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+reading+introduction)](https://git.io/typing-svg)
 
 
 <!--
